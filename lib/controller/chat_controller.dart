@@ -12,6 +12,9 @@ final chatControllerProvider = Provider((ref) {
 class ChatController {
   Ref _ref;
   ChatController(this._ref);
+
+  void findAllStream() {}
+
   void insert(ChatInsertReqDto dto) {
     // try-catch로 잡는 케이스도 있다. 연습해보자
     Future<DocumentReference> futureDoc = _ref.read(chatFirestoreRepositoryProvider).insert(dto);
