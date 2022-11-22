@@ -1,41 +1,34 @@
 {
   "project_info": {
-    "project_number": "427757070",
-    "project_id": "riverpod-firestore-strea-52399",
-    "storage_bucket": "riverpod-firestore-strea-52399.appspot.com"
+    "project_number": "297062741181",
+    "project_id": "riverpod-firestore-strea-76823",
+    "storage_bucket": "riverpod-firestore-strea-76823.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:427757070:android:bf987cc54f9fe8003cf65f",
+        "mobilesdk_app_id": "1:297062741181:android:2d157df75d83e26714b3d4",
         "android_client_info": {
           "package_name": "shop.mtcoding.riverpod_firestore_stream"
         }
       },
       "oauth_client": [
         {
-          "client_id": "427757070-sfbjllpr2g7p7nkss3kmq65ulbfdkh34.apps.googleusercontent.com",
+          "client_id": "297062741181-u7lp589dahhshigecniinit49pidk2ao.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCMI22lgjSlJLfszGm8gkWb2pjqgXxIGmM"
+          "current_key": "AIzaSyDC126c2FeHtW73HHrIRRMau9MX9fVQyro"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "427757070-sfbjllpr2g7p7nkss3kmq65ulbfdkh34.apps.googleusercontent.com",
+              "client_id": "297062741181-u7lp589dahhshigecniinit49pidk2ao.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "427757070-ggn8fbp4gvdri785coonbtvsc915eh5t.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "shop.mtcoding.riverpodFirestoreStream"
-              }
             }
           ]
         }
